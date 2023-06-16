@@ -1,0 +1,3 @@
+backend -> https://github.com/nayemhosssain/ecommece-assingment/tree/main/Server
+frontend -> https://github.com/nayemhosssain/ecommece-assingment/tree/main/Client
+deployed version link -> https://tangerine-gelato-60f2b8.netlify.app
